@@ -43,3 +43,7 @@ Es gibt eine Überschrift und Bilder, eine Zutatenliste, eine Anleitung und Komm
 * Für die Erstellung des XML-Schemas habe ich mir die Anforderungen des Rezeptes genau angeschaut. Ich habe mir Regeln überlegt welche das XML-Dokument einhalten muss und habe nach diesen Regeln mein Schema erstellt. 
 z.B gibt es mehrere unterschiedliche Zutaten welche von der Bezeichnung her offen sein können, aber die Einheit der Zutat ist eine bestimmte. Um diese Regel umzusetzen habe ich eine Enumeration angelegt, welche die Einheiten beinhalten. So kann ein XML-Dokument mit diesem Schema nur Einheiten aus diesem Enum enthalten.
 Für alle SimpleType Elemente habe ich einen Typ vergeben, damit die Daten in dem XML-Dokument möglichst Korrekt sind. So kann z.B die Arbeitszeit keinen String enthalten sondern nur einen Integer.
+
+## Aufgabe 4
+
+#### Siehe Src Ordner
