@@ -35,7 +35,7 @@ Dies ist zum Beispiel nützlich, wenn man in einem XML-Dokument mehrere XML-Sche
 
 #### b)
 
-*Die Rezepte unterscheiden sich im Inhalt, die Struktur der Rezepte ist immer gleich.
+* Die Rezepte unterscheiden sich im Inhalt, die Struktur der Rezepte ist immer gleich.
 Es gibt eine Überschrift und Bilder, eine Zutatenliste, eine Anleitung und Kommentare. Die Unterschiede liegen in der Anzahl der Daten. Es gibt unterschiedlich viele Zutaten, Bilder und Kommentare. 
 
 #### c)
