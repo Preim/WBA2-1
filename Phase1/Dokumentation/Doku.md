@@ -22,3 +22,8 @@ Eine XML-Dokument ist Wohlgeformt, wenn es den Regeln von Xml entspricht.
 
 * Mit dem Namespace ist es möglich ein XML-Dokument eindeutig zu indentifizieren.
 Dies ist zum Beispiel nützlich, wenn man in einem XML-Dokument mehrere XML-Schemas verwendet. 
+
+## Aufgabe 2
+
+* Siehe Aufgabe2.xml und Aufgabe 2.json
+* meine erste Idee das XML-Dokument umzusetzen war es Ein Element Person zu erstellen welches ein Attribut „Leiter“ besitzt welches für den Leiter auf „1“ und für normale Mitglieder auf „0“ gesetzt wird. Leider ging die Idee nicht auf, da dann jede Person eine Anmerkung gehabt hätte, was vom Formular nicht so vorgegeben ist. Darum habe ich ein „Leiter“ Element und ein „Person“ Element erstellt.
